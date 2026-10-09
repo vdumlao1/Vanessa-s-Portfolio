@@ -1,1 +1,5 @@
-
+body{margin:0;background:#07070C}
+a{color:#D08CFF;text-decoration:none;border-bottom:1px solid #6B2FA0}a:hover{color:#FF6FB5;border-bottom-color:#FF6FB5}
+.card{transition:transform .2s,box-shadow .2s,border-color .2s}
+.card:hover{transform:translateY(-3px);border-color:#B026FF !important;box-shadow:0 0 28px rgba(176,38,255,.28) !important}
+html{scroll-behavior:smooth}
